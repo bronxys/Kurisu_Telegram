@@ -1,0 +1,11 @@
+{
+  "antipv1": false,
+  "antipv2": false,
+  "boton": true,
+  "listanegraG": [],
+  "legendaantipv1": "O pv do bot está bloqueado",
+  "tempodecmd": 5,
+  "legendaantispam": "Espere #tempo# segundos entre um comando e outro",
+  "donos": [],
+  "dinheiro_resgate": 100
+}
